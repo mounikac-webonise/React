@@ -1,0 +1,42 @@
+.TableOfContents {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #f7f7f7;
+}
+
+.TableOfContents h2 {
+  margin-bottom: 10px;
+}
+
+.TableOfContents ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.TableOfContents li {
+  margin-bottom: 5px;
+}
+
+.TableOfContents a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.TableOfContents a:hover {
+  text-decoration: underline;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
